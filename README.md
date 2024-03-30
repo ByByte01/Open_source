@@ -7,3 +7,5 @@
 3：内置银行卡，手机号，IP，邮箱，身份证号脱敏组件
 #### 可扩展性支持
 当需要对应其他类型的数据进行脱敏时，只需要实现对应的接口即可
+
+![WechatIMG167](https://github.com/cfjgithub/Open_source/assets/29352111/99671a37-8cb0-4b3d-ac45-e1db1d397638)
