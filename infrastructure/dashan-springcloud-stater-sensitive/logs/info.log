@@ -1,0 +1,4 @@
+16:49:43.035  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,33] - %PARSER_ERROR[msg]
+16:49:43.041  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,50] - %PARSER_ERROR[msg]
+16:53:37.760  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,33] - %PARSER_ERROR[msg]
+16:53:37.762  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,50] - %PARSER_ERROR[msg]

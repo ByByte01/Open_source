@@ -1,0 +1,38 @@
+16:38:53.324  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,31] - %PARSER_ERROR[msg]
+16:38:53.326  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,48] - %PARSER_ERROR[msg]
+16:40:37.890  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,31] - %PARSER_ERROR[msg]
+16:40:37.894  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,48] - %PARSER_ERROR[msg]
+16:40:53.258  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,31] - %PARSER_ERROR[msg]
+16:40:53.261  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,48] - %PARSER_ERROR[msg]
+16:44:19.764  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,31] - %PARSER_ERROR[msg]
+16:44:19.767  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,48] - %PARSER_ERROR[msg]
+16:48:59.151  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,33] - %PARSER_ERROR[msg]
+16:48:59.155  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,50] - %PARSER_ERROR[msg]
+16:54:31.310  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,33] - [{"iP":"12*.0.0.1","idCard":"6************173553","numberCard":"3**********2264517"},{"iP":"12*.0.0.1","idCard":"6************173553","numberCard":"3**********2264517"}]
+16:54:31.316  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,50] - <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE note SYSTEM "book.dtd">
+<book id="1">
+    <name>xml报文脱敏测试</name>
+    <author>Cay S. Horstmann</author>
+    <isbn lang="CN">12*.0.0.1</isbn>
+    <sfz sfz="CN">6************173553</sfz>
+    <tags>
+        <tag></tag>
+        <tag>Network</tag>
+    </tags>
+    <pubDate/>
+</book>
+16:58:44.554  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,33] - [{"iP":"12*.0.0.1","idCard":"6************173553","numberCard":"3**********2264517"},{"iP":"12*.0.0.1","idCard":"6************173553","numberCard":"3**********2264517"}]
+16:58:44.568  [traceId=] [main] INFO  c.f.l.SensitiveTest - [shouldAnswerWithTrue,50] - <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE note SYSTEM "book.dtd">
+<book id="1">
+    <name>xml报文脱敏测试</name>
+    <author>Cay S. Horstmann</author>
+    <isbn lang="CN">12*.0.0.1</isbn>
+    <sfz sfz="CN">6************173553</sfz>
+    <tags>
+        <tag></tag>
+        <tag>Network</tag>
+    </tags>
+    <pubDate/>
+</book>

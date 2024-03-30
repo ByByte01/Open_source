@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.dashan.config.DashanGateWayAutoConfiguration,\
+com.dashan.config.ContextPathConfig
